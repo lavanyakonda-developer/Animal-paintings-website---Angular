@@ -20,4 +20,13 @@ Download the code, `npm i` and `ng serve -o`
 
 ## Unit tests Running
 
+
 Run `ng test` to execute the unit tests via [Karma]
+
+## Snap shots
+
+
+<img width="1512" alt="Screenshot 2024-01-17 at 3 13 33 PM" src="https://github.com/lavanyakonda-developer/Animal-paintings-website---Angular/assets/145902495/c2aa2a57-f3ea-4428-b947-c6884ec0bc23">
+
+
+<img width="1512" alt="Screenshot 2024-01-17 at 3 13 54 PM" src="https://github.com/lavanyakonda-developer/Animal-paintings-website---Angular/assets/145902495/38d80378-d6a5-444e-974e-89c17ce06a2d">
